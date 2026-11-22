@@ -221,3 +221,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project dataset
+data/
+dataset/
+datasets/
+
+# Trained model files
+*.h5
+*.keras
+*.weights.h5
+
+# Training logs
+logs/
+runs/
